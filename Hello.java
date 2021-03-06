@@ -6,5 +6,6 @@ public class Hello {
         int b = 0;
         System.out.println("Hello there");
         ArrayList<Integer> aList = new ArrayList<Integer>();
+        int g = 0;
     }
 }

@@ -7,5 +7,6 @@ public class Hello {
         String partFive = "This is the final part";
         System.out.println("Hello there");
         ArrayList<Integer> aList = new ArrayList<Integer>();
+        int g = 0;
     }
 }
